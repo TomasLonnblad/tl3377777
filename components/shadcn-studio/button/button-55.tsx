@@ -9,7 +9,7 @@ const GlassButtonDemo = () => {
   <a
             href="https://tomaslonnblad.github.io/tl33666">
            
-      <GlassButton>Glass Button</GlassButton>
+      <GlassButton>Galley</GlassButton>
  </a>
     </div></div>
   )
